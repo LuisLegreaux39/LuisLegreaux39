@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Legreaux</h1>
 <h3 align="center">I am a passionate software engineer with more than 5 years of experience on the software building life cycle, always excited for new tech stacks and approaches for now a days problems, always learning new things and seeking to discuss about new technologies and methodologies that makes everything easier for everybody around me. Always looking for new challenges in order to improve myself everyday. Proficient on finding optimum solutions implementing scripts, Developing Algorithms using latest technologies in order to improve flows and having experience on working under pressure with a detail oriented perspective.</h3>
 
-- 🔭 I’m currently working on [epam](https://www.epam.com/)
+- 🔭 I’m currently working on [EPAM Systems](https://www.epam.com/)
 
 - 🌱 I’m currently learning **kubernetes, Java**
 
