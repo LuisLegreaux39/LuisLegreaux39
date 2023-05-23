@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Legreaux</h1>
 <h3 align="center">I am a passionate software engineer with more than 5 years of experience on the software building life cycle, always excited for new tech stacks and approaches for now a days problems, always learning new things and seeking to discuss about new technologies and methodologies that makes everything easier for everybody around me. Always looking for new challenges in order to improve myself everyday. Proficient on finding optimum solutions implementing scripts, Developing Algorithms using latest technologies in order to improve flows and having experience on working under pressure with a detail oriented perspective.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luislegreaux39" alt="luislegreaux39" /></a> </p>
-
-- 🔭 I’m currently working on [https://www.epam.com/](https://www.nordstrom.com/)
+- 🔭 I’m currently working on [epam](https://www.epam.com/)
 
 - 🌱 I’m currently learning **kubernetes, Java**
 
@@ -21,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luislegreaux39&show_icons=true&locale=en&layout=compact" alt="luislegreaux39" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luislegreaux39&show_icons=true&locale=en" alt="luislegreaux39" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=luislegreaux39&show_icons=true&locale=en" alt="luislegreaux39" /></p>
